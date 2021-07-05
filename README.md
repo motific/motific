@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @motific
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning functional programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects that interest me
 - 📫 Don't call me, I'll call you
 
 <!---
